@@ -38,4 +38,4 @@ NOTE : item_similarity_df is itemsimilarity matrix which is the output of implem
     python manage.py runserver
 
 
-!!! Enjoy The Movie recommendation System Web Application !!!
+### !!! Enjoy The Movie recommendation System Web Application !!!
