@@ -1,9 +1,6 @@
 # Movie-Recommendation-System-Django-and-ML
 Movie Recommendation System using Django Framework &amp; Machine Learning
 
-### You should have knowledge of Machine Learning to execute and understand the project.
-### Otherwise, don't dare to clone this project & better luck next time !
-
 
 You should sequentially follow the following steps to execute this project:
 
@@ -11,7 +8,6 @@ You should sequentially follow the following steps to execute this project:
 NOTE : item_similarity_df is itemsimilarity matrix which is the output of implementation of recommendation algorithm (i.e Pearson correlation).
 
 ### Note : 0th step is mandatory.
-
 
 1) Clone this project with 'https' url
 
